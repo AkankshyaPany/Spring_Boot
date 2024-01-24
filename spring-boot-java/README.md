@@ -1,6 +1,5 @@
 <h1 align="center">Spring Boot Quick Start 🔥</h1>
 
-This is a hands-on project from the [Spring Boot Tutorial](https://www.youtube.com/playlist?list=PLmbC-xnvykcghOSOJ1ZF6ja3aOgZAgaMO) by Java Brains!
 
 # Development Process
 
