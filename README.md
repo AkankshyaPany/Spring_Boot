@@ -1,10 +1,11 @@
 
 <h1 align="center">COURSE API🔥</h1>
 ##Here I have made different course api a/c to my learning process
--[x][1] course api w/o database
--[x][2] course api with database integration
--[x][3]course api with little modification like showing http status too
--[x][4]course api advance (cloned from java brains).
+
+- [x] [1] course api w/o database
+- [x] [2] course api with database integration
+- [x] [3]course api with little modification like showing http status too
+- [x] [4]course api advance (cloned from java brains).
 
 
 # Development Process
@@ -23,6 +24,7 @@ With the development process of the Course Management System detailed below, I a
 - [x] Add Topic RestController.
 - [x] Add `getAllTopics` and its `/topics` RequestMapping.
 - [x] Return a hardcoded list of `Topic` objects which Spring MVC converts to JSON.
+      
 
 ## Using a Business Service
 
