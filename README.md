@@ -1,10 +1,10 @@
 
 <h1 align="center">COURSE API🔥</h1>
 ##Here I have made different course api a/c to my learning process
-[1] course api w/o database
-[2] course api with database integration
-[3]course api with little modification like showing http status too
-[4]course api advance (cloned from java brains).
+-[x][1] course api w/o database
+-[x][2] course api with database integration
+-[x][3]course api with little modification like showing http status too
+-[x][4]course api advance (cloned from java brains).
 
 
 # Development Process
