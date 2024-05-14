@@ -3,7 +3,7 @@
 ##Here I have made different course api a/c to my learning process
 
 - [x] [1] course api w/o database
-- [x] [2] course api with database integration
+- [x] [2] course api with database integration(MySql)
 - [x] [3]course api with little modification like showing http status too
 - [x] [4]course api advance (cloned from java brains).
 
